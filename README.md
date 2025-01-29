@@ -1,7 +1,7 @@
   <h1 align="center">Amigo secreto  🎉 </h1>
 
+![entregando_presente (2)](https://github.com/user-attachments/assets/e3a5a19f-e29c-4ebc-9a05-abb53e722d93)
 
-![entregando_presente (2)](https://github.com/user-attachments/assets/4dcffc0c-dd2f-44c1-8b39-efca145d7c73)
 ## Sobre o projeto: 
 
 O **Amigo Secreto** é um projeto simples desenvolvido com **HTML**, **CSS** e **JavaScript**. Ele permite adicionar os nomes dos participantes e realizar o sorteio de forma aleatória diretamente no navegador!
