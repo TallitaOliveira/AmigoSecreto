@@ -16,7 +16,7 @@ O **Amigo Secreto** é um projeto simples desenvolvido com **HTML**, **CSS** e *
 
 ## Como Usar:
 
-1. **Abra o arquivo `Amigo-Secreto`** em qualquer navegador moderno.
+1. **Abra o arquivo `Amigo-Secreto`** em qualquer navegador.
 2. **Digite os nomes dos participantes** no campo de texto.
 3. Clique no botão **"Adicionar"** para incluir os nomes na lista.
 4. Após adicionar todos os nomes, clique no botão **"Sortear amigo"**.
