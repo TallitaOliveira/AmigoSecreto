@@ -29,6 +29,8 @@ O **Amigo Secreto** é um projeto simples desenvolvido com **HTML**, **CSS** e *
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
+👉 [Clica aqui para jogar](https://amigo-secreto-self-ten.vercel.app)
+
 ## Melhorias Futuras:
 
 - Tornar o design responsivo e acessível para dispositivos móveis.
